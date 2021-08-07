@@ -14,3 +14,7 @@ Simple starting template
 
 > yarn dev
 ```
+
+## Screenshot
+
+![Example](https://i.imgur.com/EP4R0aS.png)
